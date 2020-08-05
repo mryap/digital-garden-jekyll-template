@@ -4,11 +4,16 @@ title: About
 permalink: /about
 ---
 
-The *Full Stack* term originates from system development, where front and backend are traditionally separate from each other. People who work in both are often referred to as “Full Stack Developers”, since their skills and experience span across the whole tech stack. While I worked as one myself, I also find this term quite adequate for my current situation, where I cover all things Analytics. Therefore, this is how I call myself: Full Stack Analyst.
+The *Full Stack* term originates from system development, where front and backend 
+are traditionally separate from each other. 
 
-You might be wondering: What exactly _is_ a Full Stack Analyst? It’s my catch all-phrase that I comes up with to describe who I am, what I do and what I can bring to the table. 
+People who work in both are often referred to as “Full Stack Developers”, since their skills and experience span across the whole tech stack. 
 
-My career started out as a developer while I was still in school. I’ve built desktop applications, websites, and apps as a freelancer. This is where I learned about project and demand management, handling stakeholders and building maintainable systems. But then I went to university and became a psychologist with courses in statistics, sql, machine leanring. Right after university I started working full time in Digital Analytics, which was always part of what I did as developer anyway. This was accompanied by Data Science techniques I learned to use. In my current job I also handle BI topics and far more strategical areas as Analytics Lead and only Senior Analyst of the company.
+While I worked as one myself, I also find this term quite adequate for my current situation, where I cover all things Analytics. Therefore, this is how I call myself: Full Stack Analyst.
+
+Full Stack Analyst is my catch all-phrase that I comes up with to describe who I am, what I do and what I can bring to the table. 
+
+My career started out as a webmaster/web designer I’ve built desktop applications, websites, and apps as a freelancer. This is where I learned about project and demand management, handling stakeholders and building maintainable systems. But then I went to university and became a psychologist with courses in statistics, sql, machine leanring. Right after university I started working full time in Digital Analytics, which was always part of what I did as developer anyway. This was accompanied by Data Science techniques I learned to use. In my current job I also handle BI topics and far more strategical areas as Analytics Lead and only Senior Analyst of the company.
 
 ####  Conundrum
 
