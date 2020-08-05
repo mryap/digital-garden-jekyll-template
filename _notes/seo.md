@@ -1,4 +1,6 @@
-# SEO
+---
+title: SEO
+---
 
 ### Link syntax
 
