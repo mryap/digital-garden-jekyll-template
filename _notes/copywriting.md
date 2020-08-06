@@ -1,5 +1,5 @@
 ---
-title: effective copy for better conversions
+title: Effective copy for better conversions
 image: /assets/image.jpg
 ---
 
