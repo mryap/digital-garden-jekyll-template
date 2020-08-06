@@ -2,36 +2,17 @@
 title: SEO
 ---
 
-### Link syntax
+Is the URL Matching the Page Title of the content critical?
 
-To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
+[SEO advice from Google](https://support.google.com/webmasters/answer/35769?hl=en)
 
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is the same note about cats as above</a>.
+Will I get any SEO advantage if I use Google's own blogging platform like Blogger? [link](https://blogger.googleblog.com/2020/05/a-better-blogger-experience-on-web.html)
 
-Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer.
+Are Rankings the Right Metric to Report to SEO Clients? https://www.searchenginejournal.com/seo-guide/top-seo-kpis/ 
 
-Additionally, you can use Roam/wiki-style link syntax by wrapping a note's title in double brackets, like this: [[A note about cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[There is no note with this title]].
+Newsjacking for SEO - a sloppy & tactless approach can be a disaster for your brand. https://blog.hittail.com/2013/06/25/how-to-newsjack-for-seo/ 
 
-### Automatic bi-directional links
+‘Pageless’ scrolling design offers great user experience can harm SEO if done poorly.
+[Here how to make it right](https://webmasters.googleblog.com/2014/02/infinite-scroll-search-friendly.html?utm_content=buffer1d5fa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
-
-### Link previews
-
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[A note about cats]]
-
-### Images
-
-Finally, you can display images using Markdown syntax, like this:
-
-![]({{page.image}})
-
-### Next steps
-
-**If this template is useful to you in any way, consider [donating](https://github.com/sponsors/maximevaillancourt) to support my work**.
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
-
-Go forth, have fun, and learn new something every day! ✌️
+[10 technical SEO considerations for Shopify](https://econsultancy.com/10-technical-seo-considerations-for-shopify/)
