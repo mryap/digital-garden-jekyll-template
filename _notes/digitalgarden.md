@@ -20,3 +20,9 @@ Readers can navigate the ins-and-outs of your ideas by clicking [links](/linksyn
 
 ![]({{page.image}})
 
+### References
+
+https://notes.salman.io/digital-gardens
+
+
+

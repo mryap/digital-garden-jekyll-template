@@ -9,7 +9,7 @@ permalink: /
 
 <div class="post-heading">
   <h1 class="post-title">All notes 📘</h1>
-  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">I'm experimenting a public graph of notes to foster an environment where thoughts collide, in a way that I can build upon the combination of ideas. Kind of like a digital garden, with small seedlings that eventually grow into mature trees. 🌱</p>
+  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">This is where I post ideas, snippets, resources, thoughts, collections, and other bits and pieces that I find interesting and useful. This is not a showcase and representative of what I can do. The idea is about embracing the idea of curation, by me, for you.🌱</p>
 </div>
 
 <!-- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
@@ -33,9 +33,7 @@ permalink: /
     {% endfor %}
     </div>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
 
 <style>
   .wrapper {
