@@ -9,7 +9,7 @@ permalink: /
 
 <div class="post-heading">
   <h1 class="post-title">All notes 📘</h1>
-  <p>I'm experimenting with maintaining a public graph of notes to foster an environment where thoughts collide, in a way that I can build upon the combination of ideas. Kind of like a digital garden, with small seedlings that eventually grow into mature trees. 🌱</p>
+  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">I'm experimenting a public graph of notes to foster an environment where thoughts collide, in a way that I can build upon the combination of ideas. Kind of like a digital garden, with small seedlings that eventually grow into mature trees. 🌱</p>
 </div>
 
 <!-- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
