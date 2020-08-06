@@ -27,7 +27,7 @@ permalink: /
         {% endif %}
         <div class="blog-entry">
           <a class="internal-link" href="{{ entry.url }}">{{entry.title | replace: '_notes', '/notes' }}</a>
-          <div class="sub">{{ entry.excerpt | strip_html }}</div>
+          <!-- <div class="sub">{{ entry.excerpt | strip_html }}</div> -->
         </div>
       {% endunless %}
     {% endfor %}
