@@ -14,8 +14,9 @@ Tom's [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-d
 
 Robin Sloan in 2010 [stock and flow](http://snarkmarket.com/2010/4890) lays out the concept of Stock and flow as a useful metaphor for media. 
 
+### Contextually Linked Interface
 
-
+Readers can navigate the ins-and-outs of your ideas by clicking [links](/linksyntax) to explore them. Each note contains backlinks to other notes that reference it. 
 
 ![]({{page.image}})
 
