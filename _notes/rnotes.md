@@ -13,7 +13,7 @@ Be able to answer 5 questions about your research:
 
 # GitHub - Remote Code Repositary
 
-Share your RStudio project directory is by pushing it to a remote repo on [Github](/_notes/githubnotes.md), and cloning it to your machine when you next need to work on it. This also has the additional advantage of allowing you to keep track of changes to your project. 
+Share your RStudio project directory is by pushing it to a remote repo on [Github](/githubnotes), and cloning it to your machine when you next need to work on it. This also has the additional advantage of allowing you to keep track of changes to your project. 
 
 # What is R Markdown? 
 
