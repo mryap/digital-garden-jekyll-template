@@ -19,7 +19,19 @@ Share your RStudio project directory is by pushing it to a remote repo on [Githu
 
 Like Python, R has its own tooling for literate statistical programming called R Markdown. Just like with Juypter notebooks, you can write chunks of markdown text alongside R code, meaning you can create easy-to-read, meaningful annotations for your analysis. You can also include results, tables and charts, allowing you to create reports and other documents from one self-contained R Markdown script.
 
+## R Markdown
+
+You can avoid copy-pasting tables (and all other analyses) by writing your reports using R Markdown instead of a word processor. R Markdown is a language for writing documents which include R code. The code is run, and the output is included in the document. R Markdown can be used to produce different types of document (e.g. reports, presentations, web pages), in various formats (e.g. Microsoft Word, PDF, HTML). The Research Methods in R worksheets are written using R Markdown, and although we don’t teach it in these materials, there are other courses which make it easy to learn.
+
 # Alternatives
 
 R has a similar solution to Python’s virtualenvs called packrat which allows you to keep track of your analyses’ dependencies.
 
+# Data structures
+R has many data structures. These include
+
+    atomic vector
+    list
+    matrix
+    data frame
+    factors
