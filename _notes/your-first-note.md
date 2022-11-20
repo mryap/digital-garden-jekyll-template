@@ -3,6 +3,7 @@ title: Your first seed
 image: /assets/image.jpg
 ---
 
+### 20 Nov 2022
 
 ### IS this a blog? Is this a Wiki?
  It’s a spot where I can post ideas, snippets, resources, thoughts, collections, and other bits and pieces that I find interesting and useful. 
@@ -11,7 +12,7 @@ image: /assets/image.jpg
    
 ### Insipired by
 
- My blog is a [digital garden](/digitalgarden), Not a blog, [joelhooks.com](https://joelhooks.com/digital-garden)
+ My blog is a *Digital garden, Not a blog*, [joelhooks.com](https://joelhooks.com/digital-garden)
 
 ### What I do for a living?
 
