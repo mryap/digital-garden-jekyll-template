@@ -3,8 +3,6 @@ title: Your first seed
 image: /assets/image.jpg
 ---
 
-### 20 Nov 2022
-
 ### IS this a blog? Is this a Wiki?
  It’s a spot where I can post ideas, snippets, resources, thoughts, collections, and other bits and pieces that I find interesting and useful. 
  This is not a showcase and representative of what I can do. 
