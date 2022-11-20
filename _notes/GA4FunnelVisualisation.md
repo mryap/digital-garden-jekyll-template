@@ -2,7 +2,7 @@
 title: Google Analytics 4 Funnel Visualisation
 image: /assets/image.jpg
 ---
-
+### Google Analytics 4 Funnel Visualisation
 Want to see how many people saw at least one product (on the product page), then how many of them have added at least one product to a cart, and finally, how many of those did make a purchase?
 
 Google Analytics 4 offers you a powerful new funnel visualisation tool that was previously only available in GA360 ($$$). This allows you to create a funnel visualisation with any kind of event, including impressions, clicks and pageviews.
